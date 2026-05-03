@@ -432,5 +432,6 @@ Le **volume nommé `learnpy-pgdata`** garantit la persistance entre redémarrage
 
 ## 11. Auteurs
 
-Projet réalisé dans le cadre de la SAE **DDAW** — Sup-Galilée — promo 2025-2026.
+Projet réalisé par boukerchi melissa et youdihat yamina 
+— Sup-Galilée — promo 2025-2026.
 
